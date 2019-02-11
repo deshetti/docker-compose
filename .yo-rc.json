@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "gateway"
+    ],
+    "directoryPath": "../",
+    "gatewayType": "zuul",
+    "clusteredDbApps": [],
+    "monitoring": "no",
+    "serviceDiscoveryType": "consul",
+    "jwtSecretKey": "MDIyYWZmM2Y4NDBjOWNmNDdlODMyN2I3NzJhMjhjMTM3MGI3NzkxMDdhMjdkYWVjYjViYmZkZTNhMDA1ZWUyMDAzNTUxMDMyOWM3ZDBkMDZlNDcxMGJiMGEzY2YzMzAwZWUwYQ=="
+  }
+}
